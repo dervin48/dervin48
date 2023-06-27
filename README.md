@@ -1,4 +1,4 @@
-# Hola Soy Durvin Godoy  ✋🏻
+# Hola Soy Durvin Godoy  👋
 
 ## About Me
 
