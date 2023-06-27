@@ -17,7 +17,7 @@ I am a passionate software developer with experience in web development and a st
 - Programming Languages: JavaScript, HTML, CSS
 - Front-end: React, Redux, Bootstrap
 - Back-end: Node.js, Express
-- Databases: MongoDB, MySQL
+- Databases: MySQL
 - Version Control: Git, GitHub
 
 ## Blog Posts or Articles
@@ -25,11 +25,6 @@ I am a passionate software developer with experience in web development and a st
 
 ## Contact Me
 
-- Email: john.doe@email.com
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
-- Website: [johndoe.com](https://www.johndoe.com)
+- Email: dervin48@gmail.com
+- LinkedIn: https://www.linkedin.com/in/durvin-godoy-garza-36363737/
 
-## Fun Facts
-
-- I love hiking and exploring nature.
-- I enjoy playing the guitar in my free time.
