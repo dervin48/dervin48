@@ -1,16 +1,35 @@
-### Hi there 👋
+# Durvin Godoy - GitHub Profile
 
-<!--
-**dervin48/dervin48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate software developer with experience in web development and a strong focus on front-end technologies. I enjoy building user-friendly and visually appealing interfaces. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+
+
+## Projects
+
+
+
+## Skills
+
+- Programming Languages: JavaScript, HTML, CSS
+- Front-end: React, Redux, Bootstrap
+- Back-end: Node.js, Express
+- Databases: MongoDB, MySQL
+- Version Control: Git, GitHub
+
+## Blog Posts or Articles
+
+
+## Contact Me
+
+- Email: john.doe@email.com
+- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
+- Website: [johndoe.com](https://www.johndoe.com)
+
+## Fun Facts
+
+- I love hiking and exploring nature.
+- I enjoy playing the guitar in my free time.
