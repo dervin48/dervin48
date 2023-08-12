@@ -15,7 +15,7 @@ I am a passionate software developer with experience in web development and a st
 ## Skills
 
 - Programming Languages: JavaScript, HTML, CSS
-- Front-end: React, Redux, Bootstrap
+- Front-end: React, Angular, Bootstrap
 - Back-end: Node.js, Express
 - Databases: MySQL
 - Version Control: Git, GitHub
